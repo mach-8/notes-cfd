@@ -1,3 +1,3 @@
 # notes-cfd
 
-Personal notes
+Personal notes -- to be edited 
