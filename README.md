@@ -8,6 +8,9 @@
 
   3. H.K. Versteeg and W. Malalasekera. An Introduction to Computational Fluid Dynamics
 
-* To be edited:
+* To Do:
   
-  - High Resolution Schemes
+  - Vorticity-Stream Function Solution of 2-D Problems
+  
+  - Pressure-Velocity Coupling
+  
