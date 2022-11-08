@@ -10,7 +10,5 @@
 
 * To Do:
   
-  - Vorticity-Stream Function Solution of 2-D Problems
-  
   - Pressure-Velocity Coupling
   
