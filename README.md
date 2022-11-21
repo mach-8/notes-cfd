@@ -8,3 +8,5 @@
 
   3. H.K. Versteeg and W. Malalasekera. An Introduction to Computational Fluid Dynamics
   
+  4. Guan Heng Yeoh, Chi Pok Cheung and Jiyuan Tu. Multiphase Flow Analysis Using Population Balance Modelling: Bubbles, Drops, and Particles
+  
