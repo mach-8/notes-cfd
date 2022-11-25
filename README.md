@@ -10,3 +10,5 @@
   
   4. Guan Heng Yeoh, Chi Pok Cheung and Jiyuan Tu. Multiphase Flow Analysis Using Population Balance Modelling: Bubbles, Drops, and Particles
   
+  5. K.A. Buist, M.N Baltussen, E.A.J.F Peters, J.A.M Kuipers. Chapter 3: Multiscale Modelling of Multiphase Flows (Multiphase Flows for Process Industries)
+  
