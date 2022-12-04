@@ -18,49 +18,49 @@ By the end of this course, students should be able to:
 
 ## Topics
 
-1. Governing Equations
+	1. Governing Equations
+	
+		i). Single Phase Flows
   
-  i). Single Phase Flows
+  		ii). Multiphase Flows
   
-  ii). Multiphase Flows
+ 	2. Discretization of Advection-Diffusion Equations
   
- 2. Discretization of Advection-Diffusion Equations
+  		i). Central Difference Scheme
   
-  i). Central Difference Scheme
+  		ii). Exact Scheme
   
-  ii). Exact Scheme
+  		iii). Upwind Scheme
   
-  iii). Upwind Scheme
+  		iv). Downwind Scheme
   
-  iv). Downwind Scheme
+  		v). Hybrid Scheme
   
-  v). Hybrid Scheme
+  		vi). Power-Law Scheme
   
-  vi). Power-Law Scheme
-  
-  vii).	Numerical Diffusion
+  		vii).	Numerical Diffusion
 
- 3. High Order Schemes
+ 	3. High Order Schemes
   
-   i). Second Order Upwind
+   		i). Second Order Upwind
    
-   ii). FROMM 
+   		ii). FROMM 
    
-   iii). Quadratic Upstream Interpolation for Convective Kinetics (QUICK)
+   		iii). Quadratic Upstream Interpolation for Convective Kinetics (QUICK)
    
- 4. High Resolution Schemes
+ 	4. High Resolution Schemes
   
-  i). Normalized Variable Formulation
+  		i). Normalized Variable Formulation
   
-  ii). Convection Boundedness Criterion
+  		ii). Convection Boundedness Criterion
   
-  iii). Total Variation Diminishing Framework
+  		iii). Total Variation Diminishing Framework
   
- 5. Solution Procedures
+ 	5. Solution Procedures
   
-  i). Stream Function-Vorticity Formulation
+  		i). Stream Function-Vorticity Formulation
   
-  ii). Pressure-Velocity Coupling
+  		ii). Pressure-Velocity Coupling
   
 ## Deliverables
 
@@ -79,7 +79,6 @@ Evaluation for this course will be based on four assignments which will be compl
     4. Assignment 4 (30%)
 
 ## Recommended Texts
-***
 
   1. Suhas V. Patankar. Numerical Heat Transfer and Fluid Flow.
 
