@@ -2,8 +2,8 @@
 
 ## Course Description
 
-  This course will cover fundamental aspects of computational fluid dynamics. The overall goal is to introduce students to details of the trade that are often hidden behind closed source commercial software or that may not be easy to pick from the codes of open-source software. Special emphasis will be placed on derivation of governing equations for single phase and multiphase flows, review, comparison and development of various numerical methods for the discretization of the governing equations and solution procedures for coupling pressure and velocity.
-
+  This course will cover fundamental aspects of computational fluid dynamics. The overall goal is to introduce students to details of the trade that are often hidden behind closed source commercial software or that may not be easy to pick from the codes of open-source software. Special emphasis will be placed on derivation of governing equations for single phase and multiphase flows, review, comparison and development of various numerical methods for the discretization of the governing equations and procedures for solving discretized governing equations.
+  
 ## Learning Outcomes
 
 By the end of this course, students should be able to:
@@ -12,7 +12,7 @@ By the end of this course, students should be able to:
   
   2.	Develop new numerical schemes if necessary
   
-  3. 	Understand and appreciate the difficulties involved in solving of discretized governing equations and how to overcome such difficulties
+  3. 	Understand and appreciate the difficulties involved in solving discretized governing equations and how to overcome such difficulties
   
   4.	Use Python and Jupyter Notebooks to solve simple numerical problems
 
@@ -42,9 +42,9 @@ By the end of this course, students should be able to:
 
  3. High Order Schemes
   
-   i). Second Order Upwind Scheme
+   i). Second Order Upwind
    
-   ii). FROMM Scheme
+   ii). FROMM 
    
    iii). Quadratic Upstream Interpolation for Convective Kinetics (QUICK)
    
