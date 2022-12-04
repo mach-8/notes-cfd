@@ -1,6 +1,24 @@
-# notes-cfd
+# CFD NOTES
 
-* These notes are based on the following books. 
+## Reading Order
+***
+
+  1. single-phase-governing-equations.ipynb
+  
+  2. multiphase-phase-governing-equations.ipynb
+  
+  3. advection-diffusion-schemes.ipynb
+  
+  4. High-Order-Schemes.ipynb
+  
+  5. High-Resolution-Schemes.ipynb
+  
+  6. stream-function-vorticity-method.ipynb
+  
+  7. pressure-velocity-coupling.ipynb
+  
+## References
+***
 
   1. Suhas V. Patankar. Numerical Heat Transfer and Fluid Flow.
 
