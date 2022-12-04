@@ -61,6 +61,8 @@ By the end of this course, students should be able to:
   		i). Stream Function-Vorticity Formulation
   
   		ii). Pressure-Velocity Coupling
+		
+		iii) Linear Algebra Solvers
   
 ## Deliverables
 
