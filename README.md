@@ -1,23 +1,84 @@
-# CFD NOTES
+# CHE XXX: Computational Fluid Dynamics
 
-## Reading Order
-***
+## Course Description
 
-  1. single-phase-governing-equations.ipynb
+  This course will cover fundamental aspects of computational fluid dynamics. The overall goal is to introduce students to details of the trade that are often hidden behind closed source commercial software or that may not be easy to pick from the codes of open-source software. Special emphasis will be placed on derivation of governing equations for single phase and multiphase flows, review, comparison and development of various numerical methods for the discretization of the governing equations and solution procedures for coupling pressure and velocity.
+
+## Learning Outcomes
+
+By the end of this course, students should be able to:
+	
+  1.	Analyze and choose numerical schemes for discretization of governing equations
   
-  2. multiphase-phase-governing-equations.ipynb
+  2.	Develop new numerical schemes if necessary
   
-  3. advection-diffusion-schemes.ipynb
+  3. 	Understand and appreciate the difficulties involved in solving of discretized governing equations and how to overcome such difficulties
   
-  4. High-Order-Schemes.ipynb
+  4.	Use Python and Jupyter Notebooks to solve simple numerical problems
+
+## Topics
+
+1. Governing Equations
   
-  5. High-Resolution-Schemes.ipynb
+  i). Single Phase Flows
   
-  6. stream-function-vorticity-method.ipynb
+  ii). Multiphase Flows
   
-  7. pressure-velocity-coupling.ipynb
+ 2. Discretization of Advection-Diffusion Equations
   
-## References
+  i). Central Difference Scheme
+  
+  ii). Exact Scheme
+  
+  iii). Upwind Scheme
+  
+  iv). Downwind Scheme
+  
+  v). Hybrid Scheme
+  
+  vi). Power-Law Scheme
+  
+  vii).	Numerical Diffusion
+
+ 3. High Order Schemes
+  
+   i). Second Order Upwind Scheme
+   
+   ii). FROMM Scheme
+   
+   iii). Quadratic Upstream Interpolation for Convective Kinetics (QUICK)
+   
+ 4. High Resolution Schemes
+  
+  i). Normalized Variable Formulation
+  
+  ii). Convection Boundedness Criterion
+  
+  iii). Total Variation Diminishing Framework
+  
+ 5. Solution Procedures
+  
+  i). Stream Function-Vorticity Formulation
+  
+  ii). Pressure-Velocity Coupling
+  
+## Deliverables
+
+Evaluation for this course will be based on four assignments which will be completed individually or in groups.
+
+  * Individual Assignments
+    
+    1. Assignment 1 (20%)
+    
+    2. Assignment 2 (20%)
+    
+  * Group Assignments
+    
+    3. Assignment 3 (30%)
+    
+    4. Assignment 4 (30%)
+
+## Recommended Texts
 ***
 
   1. Suhas V. Patankar. Numerical Heat Transfer and Fluid Flow.
