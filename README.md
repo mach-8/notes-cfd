@@ -55,8 +55,10 @@ By the end of this course, students should be able to:
   		ii). Convection Boundedness Criterion
   
   		iii). Total Variation Diminishing Framework
-  
- 	5. Solution Procedures
+  	
+	5. Discretization of Transient Term
+	
+ 	6. Solution Procedures
   
   		i). Stream Function-Vorticity Formulation
   
