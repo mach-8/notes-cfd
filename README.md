@@ -65,7 +65,9 @@ By the end of this course, students should be able to:
   		ii). Pressure-Velocity Coupling
 		
 		iii) Linear Algebra Solvers
-  
+  	
+	7. Brief introduction to turbulence modelling
+	
 ## Deliverables
 
 Evaluation for this course will be based on four assignments which will be completed individually or in groups.
