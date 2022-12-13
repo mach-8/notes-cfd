@@ -14,7 +14,9 @@ By the end of this course, students should be able to:
   
   3. 	Understand and appreciate the difficulties involved in solving discretized governing equations and how to overcome such difficulties
   
-  4.	Use Python and Jupyter Notebooks to solve simple numerical problems
+  4.    Use their knowledge of different approaches to modelling turbulence to choose turbulence models for specific applications.
+  
+  5.	Use Python and Jupyter Notebooks to solve simple numerical problems
 
 ## Topics
 
@@ -66,7 +68,15 @@ By the end of this course, students should be able to:
 		
 		iii) Linear Algebra Solvers
   	
-	7. Brief introduction to turbulence modelling
+	7. Introduction to turbulence modelling
+		
+		i). Boundary Layer Theory
+		
+		ii). Reynolds Average Navier-Stokes Models
+		
+		iii). Large Eddy Simulation
+		
+		iv). Direct Numerical Simulation
 	
 ## Deliverables
 
@@ -95,4 +105,6 @@ Evaluation for this course will be based on four assignments which will be compl
   4. Guan Heng Yeoh, Chi Pok Cheung and Jiyuan Tu. Multiphase Flow Analysis Using Population Balance Modelling: Bubbles, Drops, and Particles
   
   5. K.A. Buist, M.N Baltussen, E.A.J.F Peters, J.A.M Kuipers. Chapter 3: Multiscale Modelling of Multiphase Flows (Multiphase Flows for Process Industries)
+  
+  6. Stephen B. Pope. Turbulent Flows.
   
