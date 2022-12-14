@@ -70,13 +70,17 @@ By the end of this course, students should be able to:
   	
 	7. Introduction to turbulence modelling
 		
-		i). Boundary Layer Theory
+		i). Energy Cascade
 		
-		ii). Reynolds Average Navier-Stokes Models
+		ii). Kolmogorov's Theory
 		
-		iii). Large Eddy Simulation
+		iii). Boundary Layer Theory
 		
-		iv). Direct Numerical Simulation
+		iv). Reynolds Average Navier-Stokes Models
+		
+		v). Large Eddy Simulation
+		
+		vi). Direct Numerical Simulation
 	
 ## Deliverables
 
