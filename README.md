@@ -82,6 +82,32 @@ By the end of this course, students should be able to:
 		
 		vi). Direct Numerical Simulation
 	
+	8. Topology Optimization (In Progress)
+		
+		i). Topology Optimization of Unsteady Single Phase Flows
+		
+			- Density Based Method
+			
+			- Level Set Method
+			
+		ii). Topology Optimization of Two-Phase Flows
+		
+			- Level Set Method
+			
+			- Governing Equations
+			
+			- Sensitivity Analysis
+			
+			- Numerical Implementation
+			
+		iii). Coupling of Topology Optimization and Optimal Control
+		
+			- Variable Problem and Regularization
+			
+			- Adjoint Analysis
+			
+			- Numerical Analysis
+	
 ## Deliverables
 
 Evaluation for this course will be based on four assignments which will be completed individually or in groups.
