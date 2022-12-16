@@ -98,7 +98,7 @@ By the end of this course, students should be able to:
 			
 			- Sensitivity Analysis
 			
-			- Numerical Implementation
+			- Solution Procedure
 			
 		iii). Coupling of Topology Optimization and Optimal Control
 		
@@ -137,4 +137,6 @@ Evaluation for this course will be based on four assignments which will be compl
   5. K.A. Buist, M.N Baltussen, E.A.J.F Peters, J.A.M Kuipers. Chapter 3: Multiscale Modelling of Multiphase Flows (Multiphase Flows for Process Industries)
   
   6. Stephen B. Pope. Turbulent Flows.
+  
+  7. Yongbo Deng, Yihui Wu, and Zhenyu Liu. Topology Optimization for Laminar Flow
   
