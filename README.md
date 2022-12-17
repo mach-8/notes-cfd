@@ -82,7 +82,7 @@ By the end of this course, students should be able to:
 		
 		vi). Direct Numerical Simulation
 	
-	8. Topology Optimization (In Progress)
+	8. Topology Optimization
 		
 		i). Topology Optimization of Unsteady Single Phase Flows
 		
