@@ -102,11 +102,11 @@ By the end of this course, students should be able to:
 			
 		iii). Coupling of Topology Optimization and Optimal Control
 		
-			- Variable Problem and Regularization
+			- Variable Optimization Problem and Regularization
 			
 			- Adjoint Analysis
 			
-			- Numerical Analysis
+			- Solution Procedure
 	
 ## Deliverables
 
