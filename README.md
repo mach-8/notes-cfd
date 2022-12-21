@@ -16,7 +16,9 @@ By the end of this course, students should be able to:
   
   4.    Use their knowledge of different approaches to modelling turbulence to choose turbulence models for specific applications.
   
-  5.	Use Python and Jupyter Notebooks to solve simple numerical problems
+  5.	Understand topology optimization and its relevance in design optimization
+  
+  6.	Use Python and Jupyter Notebooks to solve simple numerical problems
 
 ## Topics
 
