@@ -27,6 +27,8 @@ By the end of this course, students should be able to:
 		i). Single Phase Flows
   
   		ii). Multiphase Flows
+		
+		iii). Population Balance Modelling
   
  	2. Discretization of Advection-Diffusion Equations
   
@@ -141,4 +143,8 @@ Evaluation for this course will be based on four assignments which will be compl
   6. Stephen B. Pope. Turbulent Flows.
   
   7. Yongbo Deng, Yihui Wu, and Zhenyu Liu. Topology Optimization for Laminar Flow
+  
+  8. D.L. Marchisio, A.A. Barresi, G. Baldi and R.O Fox. Comparison Between the Classes Method and Quadrature Method of Moments for Multiphase Systems.
+  
+  9. Ansys Fluent Documentations. Avialable at: https://www.afs.enea.it/project/neptunius/docs/fluent/html/popbal/node14.htm
   
